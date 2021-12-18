@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="utf-8"?>
+<report>
+  <region id="N">
+    <road id="1N-1040">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>อนุสรณ์สถาน</startnode>
+      <endnode>รังสิต</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="1N-1050">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>รังสิต</startnode>
+      <endnode>โรงกษาปณ์</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="1N-1060">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>โรงกษาปณ์</startnode>
+      <endnode> มหาวิทยาลัยกรุงเทพ</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="1N-1070">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>มหาวิทยาลัยกรุงเทพ</startnode>
+      <endnode>ตลาดไท</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="1N-1080">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>ตลาดไท</startnode>
+      <endnode>ตลาดบางขันธ์</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="1N-1090">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>ตลาดบางขันธ์</startnode>
+      <endnode>ต่างระดับบางปะอิน</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="1N-1100">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>ต่างระดับบางปะอิน</startnode>
+      <endnode>ต่างระดับคาร์ลเบิร์ก</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="1N-1110">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>ต่างระดับคาร์ลเบิร์ก</startnode>
+      <endnode>ตลาดวังน้อย</endnode>
+      <inout>OUT</inout>
+    </road>   
+    <road id="1N-1130">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>โรงพยาบาลวังน้อย</startnode>
+      <endnode>ตลาดวังน้อย</endnode>
+      <inout>OUT</inout>
+    </road>    
+    <road id="1N-2010">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>สี่แยกเลี่ยงเมืองสระบุรีด้านเหนือ</startnode>
+      <endnode>สามแยกห้วยบง</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="1N-2020">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>สามแยกห้วยบง</startnode>
+      <endnode>สามแยกเฉลิมพระเกียรติ</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="340N-1020">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สี่แยกนพวงศ์</startnode>
+      <endnode>สี่แยกลาดบัวหลวง</endnode>
+      <inout></inout>
+    </road>
+    <road id="340N-1030">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สี่แยกนพวงศ์</startnode>
+      <endnode>สี่แยกลาดบัวหลวง</endnode>
+      <inout></inout>
+    </road>
+    <road id="340N-1040">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สี่แยกลาดบัวหลวง</startnode>
+      <endnode>สามแยกบ้านสาลี</endnode>
+      <inout></inout>
+    </road>
+    <road id="340N-1050">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สามแยกบ้านสาลี</startnode>
+      <endnode>สี่แยกไผ่ขวาง</endnode>
+      <inout></inout>
+    </road>
+    <road id="340N-1060">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สี่แยกไผ่ขวาง</startnode>
+      <endnode>สี่แยกโพธิ์พระยา</endnode>
+      <inout></inout>
+    </road>
+    <road id="340N-1070">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สี่แยกโพธิ์พระยา</startnode>
+      <endnode>สามแยกศรีประจันต์</endnode>
+      <inout></inout>
+    </road>
+    <road id="340N-1080">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สามแยกศรีประจันต์</startnode>
+      <endnode>สามแยกสามชุก</endnode>
+      <inout></inout>
+    </road>
+    <road id="340N-1090">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สามแยกสามชุก</startnode>
+      <endnode>สามแยกเดิมบาง</endnode>
+      <inout></inout>
+    </road>
+    <road id="340N-1100">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สามแยกเดิมบาง</startnode>
+      <endnode>สี่แยกเดิมบางนางบวช</endnode>
+      <inout></inout>
+    </road>
+    <road id="340N-1110">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สี่แยกเดิมบางนางบวช</startnode>
+      <endnode>สามแยกปากน้ำ</endnode>
+      <inout></inout>
+    </road>
+    <road id="1N-2980">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>ต่างระดับชัยนาท</startnode>
+      <endnode>เมืองชัยนาท</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="32N-1000">
+      <mainroad>ทางหลวง 32</mainroad>
+      <startnode>ต่างระดับบางปะอิน</startnode>
+      <endnode>นิคมอุตสาหกรรมไฮเทค</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="32N-1010">
+      <mainroad>ทางหลวง 32</mainroad>
+      <startnode>นิคมอุตสาหกรรมไฮเทค</startnode>
+      <endnode>เข้าเมืองอยุธยา</endnode>
+      <inout>OUT</inout>
+    </road>    
+    <road id="32N-1150">
+      <mainroad>ทางหลวง 32</mainroad>
+      <startnode>ต่างระดับอินทร์บุรี</startnode>
+      <endnode>หน่วยบริการตำรวจทางหลวงชัยนาท</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="32N-1160">
+      <mainroad>ทางหลวง 32</mainroad>
+      <startnode>หน่วยบริการตำรวจทางหลวงชัยนาท</startnode>
+      <endnode>ต่างระดับชัยนาท</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="32N-1170">
+      <mainroad>ทางหลวง 32</mainroad>
+      <startnode>ต่างระดับชัยนาท</startnode>
+      <endnode>สี่แยกหางน้ำสาคร</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="340N-1130">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สามแยกหันคา</startnode>
+      <endnode>สี่แยกสรรคบุรี</endnode>
+      <inout></inout>
+    </road>
+    <road id="1N-3010">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>ต่างระดับอุทัยธานี</startnode>
+      <endnode>สี่แยกพยุหะคีรี</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="1N-3050">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>ต่างระดับเลี่ยงเมืองนครสวรรค์ตะวันตก</startnode>
+      <endnode>สามแยกหน้าค่ายจีระประวัติ</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="340N-1120">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สามแยกปากน้ำ</startnode>
+      <endnode>สามแยกหันคา</endnode>
+      <inout></inout>
+    </road>
+    <road id="1S-1040">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>อนุสรณ์สถาน</startnode>
+      <endnode>รังสิต</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="1S-1050">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>รังสิต</startnode>
+      <endnode>โรงกษาปณ์</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="1S-1060">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>โรงกษาปณ์</startnode>
+      <endnode> มหาวิทยาลัยกรุงเทพ</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="1S-1070">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>มหาวิทยาลัยกรุงเทพ</startnode>
+      <endnode>ตลาดไท</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="1S-1080">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>ตลาดไท</startnode>
+      <endnode>ตลาดบางขันธ์</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="1S-1090">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>ตลาดบางขันธ์</startnode>
+      <endnode>ต่างระดับบางปะอิน</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="1S-1100">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>ต่างระดับบางปะอิน</startnode>
+      <endnode>ต่างระดับคาร์ลเบิร์ก</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="1S-1110">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>ต่างระดับคาร์ลเบิร์ก</startnode>
+      <endnode>ตลาดวังน้อย</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="1S-1130">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>ตลาดวังน้อย</startnode>
+      <endnode>ตลาดวังน้อย</endnode>
+      <inout>IN</inout>
+    </road>   
+    <road id="1S-2010">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>สี่แยกเลี่ยงเมืองสระบุรีด้านเหนือ</startnode>
+      <endnode>สามแยกห้วยบง</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="1S-2020">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>สามแยกห้วยบง</startnode>
+      <endnode>สามแยกเฉลิมพระเกียรติ</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="340S-1020">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สี่แยกนพวงศ์</startnode>
+      <endnode>สี่แยกลาดบัวหลวง</endnode>
+      <inout></inout>
+    </road>
+    <road id="340S-1030">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สี่แยกนพวงศ์</startnode>
+      <endnode>สี่แยกลาดบัวหลวง</endnode>
+      <inout></inout>
+    </road>
+    <road id="340S-1040">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สี่แยกลาดบัวหลวง</startnode>
+      <endnode>สามแยกบ้านสาลี</endnode>
+      <inout></inout>
+    </road>
+    <road id="340S-1050">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สามแยกบ้านสาลี</startnode>
+      <endnode>สี่แยกไผ่ขวาง</endnode>
+      <inout></inout>
+    </road>
+    <road id="340S-1060">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สี่แยกไผ่ขวาง</startnode>
+      <endnode>สี่แยกโพธิ์พระยา</endnode>
+      <inout></inout>
+    </road>
+    <road id="340S-1070">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สี่แยกโพธิ์พระยา</startnode>
+      <endnode>สามแยกศรีประจันต์</endnode>
+      <inout></inout>
+    </road>
+    <road id="340S-1080">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สามแยกศรีประจันต์</startnode>
+      <endnode>สามแยกสามชุก</endnode>
+      <inout></inout>
+    </road>
+    <road id="340S-1090">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สามแยกสามชุก</startnode>
+      <endnode>สามแยกเดิมบาง</endnode>
+      <inout></inout>
+    </road>
+    <road id="340S-1100">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สามแยกเดิมบาง</startnode>
+      <endnode>สี่แยกเดิมบางนางบวช</endnode>
+      <inout></inout>
+    </road>
+    <road id="340S-1110">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สี่แยกเดิมบางนางบวช</startnode>
+      <endnode>สามแยกปากน้ำ</endnode>
+      <inout></inout>
+    </road>
+    <road id="1S-2980">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>ต่างระดับชัยนาท</startnode>
+      <endnode>เมืองชัยนาท</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="32S-1000">
+      <mainroad>ทางหลวง 32</mainroad>
+      <startnode>ต่างระดับบางปะอิน</startnode>
+      <endnode>นิคมอุตสาหกรรมไฮเทค</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="32S-1010">
+      <mainroad>ทางหลวง 32</mainroad>
+      <startnode>นิคมอุตสาหกรรมไฮเทค</startnode>
+      <endnode>เข้าเมืองอยุธยา</endnode>
+      <inout>IN</inout>
+    </road>    
+    <road id="32S-1150">
+      <mainroad>ทางหลวง 32</mainroad>
+      <startnode>ต่างระดับอินทร์บุรี</startnode>
+      <endnode>หน่วยบริการตำรวจทางหลวงชัยนาท</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="32S-1160">
+      <mainroad>ทางหลวง 32</mainroad>
+      <startnode>หน่วยบริการตำรวจทางหลวงชัยนาท</startnode>
+      <endnode>ต่างระดับชัยนาท</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="32S-1170">
+      <mainroad>ทางหลวง 32</mainroad>
+      <startnode>ต่างระดับชัยนาท</startnode>
+      <endnode>สี่แยกหางน้ำสาคร</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="340S-1130">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สามแยกหันคา</startnode>
+      <endnode>สี่แยกสรรคบุรี</endnode>
+      <inout></inout>
+    </road>
+    <road id="1S-3010">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>ต่างระดับอุทัยธานี</startnode>
+      <endnode>สี่แยกพยุหะคีรี</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="1S-3050">
+      <mainroad>ถนนพหลโยธิน</mainroad>
+      <startnode>ต่างระดับเลี่ยงเมืองนครสวรรค์ตะวันตก</startnode>
+      <endnode>สามแยกหน้าค่ายจีระประวัติ</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="340S-1120">
+      <mainroad>ทางหลวง 340</mainroad>
+      <startnode>สามแยกปากน้ำ</startnode>
+      <endnode>สามแยกหันคา</endnode>
+      <inout></inout>
+    </road>
+  </region>
+  <region id="E">
+    <road id="7S-1010">
+      <mainroad>ถนนมอเตอร์เวย์สายกรุงเทพ-ชลบุรี</mainroad>
+      <startnode>ต่างระดับทับช้าง</startnode>
+      <endnode>ต่างระดับสุวรรณภูมิ</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="7S-1020">
+      <mainroad>ถนนมอเตอร์เวย์สายกรุงเทพ-ชลบุรี</mainroad>
+      <startnode>ต่างระดับสุวรรณภูมิ</startnode>
+      <endnode>ต่างระดับอ่อนนุช</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="7S-1030">
+      <mainroad>ถนนมอเตอร์เวย์สายกรุงเทพ-ชลบุรี</mainroad>
+      <startnode>ต่างระดับอ่อนนุช</startnode>
+      <endnode>ด่านค่าธรรมเนียมลาดกระบัง</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="7S-1040">
+      <mainroad>ถนนมอเตอร์เวย์สายกรุงเทพ-ชลบุรี</mainroad>
+      <startnode>ด่านค่าธรรมเนียมลาดกระบัง</startnode>
+      <endnode>ต่างระดับบางควาย</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="7S-1050">
+      <mainroad>ถนนมอเตอร์เวย์สายกรุงเทพ-ชลบุรี</mainroad>
+      <startnode>ต่างระดับบางควาย</startnode>
+      <endnode>จุดพักรถ</endnode>
+      <inout>OUT</inout>
+    </road>    
+    <road id="34S-1000">
+      <mainroad>ถนนบางนา-ตราด</mainroad>
+      <startnode>สี่แยกบางนา</startnode>
+      <endnode>จุดกลับรถเดอะเนชั่น</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="34S-1010">
+      <mainroad>ถนนบางนา-ตราด</mainroad>
+      <startnode>จุดกลับรถเดอะเนชั่น</startnode>
+      <endnode>ต่างระดับวัดสลุต</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="34S-1020">
+      <mainroad>ถนนบางนา-ตราด</mainroad>
+      <startnode>บางพลี</startnode>
+      <endnode>ทางเข้าสนามบินสุวรรณภูมิด้านทิศใต้</endnode>
+      <inout>OUT</inout>
+    </road>      
+    <road id="34S-1050">
+      <mainroad>ถนนบางนา-ตราด</mainroad>
+      <startnode>บางพลีน้อย</startnode>
+      <endnode>นิคมเวลโกร์ว</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="9N-2040">
+      <mainroad>ถนนกาญจนาภิเษก</mainroad>
+      <startnode>สะพานคลองพระยาสุเรนทร์</startnode>
+      <endnode>ต่างระดับรามอินทรา</endnode>
+      <inout></inout>
+    </road>
+    <road id="9N-2060">
+      <mainroad>ถนนกาญจนาภิเษก</mainroad>
+      <startnode>ต่างระดับเสรีไทย</startnode>
+      <endnode>ต่างระดับทับช้าง(ขาไปบางนา</endnode>
+      <inout></inout>
+    </road>
+    <road id="9N-2070">
+      <mainroad>ถนนกาญจนาภิเษก</mainroad>
+      <startnode>ต่างระดับทับช้าง</startnode>
+      <endnode>ต่างระดับวัดสลุต</endnode>
+      <inout></inout>
+    </road>    
+    <road id="7S-1080">
+      <mainroad>ถนนมอเตอร์เวย์สายกรุงเทพ-ชลบุรี</mainroad>
+      <startnode>ต่างระดับพานทอง</startnode>
+      <endnode>ต่างระดับหนองรี</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="7S-1090">
+      <mainroad>ถนนมอเตอร์เวย์สายกรุงเทพ-ชลบุรี</mainroad>
+      <startnode>ต่างระดับหนองรี</startnode>
+      <endnode>ต่างระดับหนองข้างคอก</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="3S-1040">
+      <mainroad>ถนนสุขุมวิท</mainroad>
+      <startnode>สองคลอง</startnode>
+      <endnode>บางปะกง</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="3S-1030">
+      <mainroad>ถนนสุขุมวิท</mainroad>
+      <startnode>ตำหรุ</startnode>
+      <endnode>คลองด่าน</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="3S-1020">
+      <mainroad>ถนนสุขุมวิท</mainroad>
+      <startnode>ทางหลวงบางปู</startnode>
+      <endnode>ตลาดตำหรุ</endnode>
+      <inout>OUT</inout>
+    </road>    
+    <road id="3S-1000">
+      <mainroad>ถนนสุขุมวิท</mainroad>
+      <startnode>แยกปู่เจ้า</startnode>
+      <endnode>ช้างสามเศียร</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="9N-1080">
+      <mainroad>ถนนกาญจนาภิเษก</mainroad>
+      <startnode>ต่างระดับบางแค ต่างระดับวงแหวนพระราม</startnode>
+      <endnode>2</endnode>
+      <inout></inout>
+    </road>
+    <road id="9N-1070">
+      <mainroad>ถนนกาญจนาภิเษก</mainroad>
+      <startnode>ต่างระดับฉิมพลี</startnode>
+      <endnode>ต่างระดับบางแค</endnode>
+      <inout></inout>
+    </road>
+    <road id="9N-1060">
+      <mainroad>ถนนกาญจนาภิเษก</mainroad>
+      <startnode>ต่างระดับฉิมพลี</startnode>
+      <endnode>ต่างระดับรัตนาธิเบศน์</endnode>
+      <inout></inout>
+    </road>    
+    <road id="9N-1020">
+      <mainroad>ถนนกาญจนาภิเษก</mainroad>
+      <startnode>ต่างระดับลาดหลุมแก้ว</startnode>
+      <endnode>ต่างระดับสามโคก</endnode>
+      <inout></inout>
+    </road>    
+    <road id="9N-2000">
+      <mainroad>ถนนกาญจนาภิเษก</mainroad>
+      <startnode>ต่างระดับบางปะอิน</startnode>
+      <endnode>คลังสินค้าคลองหลวง</endnode>
+      <inout></inout>
+    </road>
+    <road id="34S-1060">
+      <mainroad>ถนนบางนา-ตราด</mainroad>
+      <startnode>บางวัว</startnode>
+      <endnode>บางปะกง</endnode>
+      <inout>OUT</inout>
+    </road>   
+    <road id="304N-1010">
+      <mainroad>ทางหลวง 304</mainroad>
+      <startnode>สี่แยกลำพระเพลิง</startnode>
+      <endnode>สี่แยกปักธงชัย</endnode>
+      <inout></inout>
+    </road>
+    <road id="304N-0000">
+      <mainroad>ทางหลวง 304</mainroad>
+      <startnode>รพ.โสธร</startnode>
+      <endnode>ทางเข้าวัดโสธร</endnode>
+      <inout></inout>
+    </road>
+    <road id="304N-0010">
+      <mainroad>ทางหลวง 304</mainroad>
+      <startnode>ค่ายทหาร</startnode>
+      <endnode>ไทยแอร์โร่</endnode>
+      <inout></inout>
+    </road>
+    <road id="304N-0030">
+      <mainroad>ทางหลวง 304</mainroad>
+      <startnode>ตลาดพนม</startnode>
+      <endnode>เขาหินซ้อน</endnode>
+      <inout></inout>
+    </road>
+    <road id="7N-1010">
+      <mainroad>ถนนมอเตอร์เวย์สายกรุงเทพ-ชลบุรี</mainroad>
+      <startnode>ต่างระดับทับช้าง</startnode>
+      <endnode>ต่างระดับสุวรรณภูมิ</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="7N-1020">
+      <mainroad>ถนนมอเตอร์เวย์สายกรุงเทพ-ชลบุรี</mainroad>
+      <startnode>ต่างระดับสุวรรณภูมิ</startnode>
+      <endnode>ต่างระดับอ่อนนุช</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="7N-1030">
+      <mainroad>ถนนมอเตอร์เวย์สายกรุงเทพ-ชลบุรี</mainroad>
+      <startnode>ต่างระดับอ่อนนุช</startnode>
+      <endnode>ด่านค่าธรรมเนียมลาดกระบัง</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="7N-1040">
+      <mainroad>ถนนมอเตอร์เวย์สายกรุงเทพ-ชลบุรี</mainroad>
+      <startnode>ด่านค่าธรรมเนียมลาดกระบัง</startnode>
+      <endnode>ต่างระดับบางควาย</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="7N-1050">
+      <mainroad>ถนนมอเตอร์เวย์สายกรุงเทพ-ชลบุรี</mainroad>
+      <startnode>ต่างระดับบางควาย</startnode>
+      <endnode>จุดพักรถ</endnode>
+      <inout>IN</inout>
+    </road>    
+    <road id="34N-1000">
+      <mainroad>ถนนบางนา-ตราด</mainroad>
+      <startnode>สี่แยกบางนา</startnode>
+      <endnode>จุดกลับรถเดอะเนชั่น</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="34N-1010">
+      <mainroad>ถนนบางนา-ตราด</mainroad>
+      <startnode>จุดกลับรถเดอะเนชั่น</startnode>
+      <endnode>ต่างระดับวัดสลุต</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="34N-1020">
+      <mainroad>ถนนบางนา-ตราด</mainroad>
+      <startnode>บางพลี</startnode>
+      <endnode>ทางเข้าสนามบินสุวรรณภูมิด้านทิศใต้</endnode>
+      <inout>IN</inout>
+    </road>   
+    <road id="34N-1050">
+      <mainroad>ถนนบางนา-ตราด</mainroad>
+      <startnode>บางพลีน้อย</startnode>
+      <endnode>นิคมเวลโกร์ว</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="9S-2040">
+      <mainroad>ถนนกาญจนาภิเษก</mainroad>
+      <startnode>สะพานคลองพระยาสุเรนทร์</startnode>
+      <endnode>ต่างระดับรามอินทรา</endnode>
+      <inout></inout>
+    </road>
+    <road id="9S-2050">
+      <mainroad>ถนนกาญจนาภิเษก</mainroad>
+      <startnode>ต่างระดับรามอินทรา</startnode>
+      <endnode>ต่างระดับเสรีไทย</endnode>
+      <inout></inout>
+    </road>
+    <road id="9S-2060">
+      <mainroad>ถนนกาญจนาภิเษก</mainroad>
+      <startnode>ต่างระดับเสรีไทย</startnode>
+      <endnode>ต่างระดับทับช้าง</endnode>
+      <inout></inout>
+    </road>
+    <road id="9S-2070">
+      <mainroad>ถนนกาญจนาภิเษก</mainroad>
+      <startnode>ต่างระดับทับช้าง</startnode>
+      <endnode>ต่างระดับวัดสลุต</endnode>
+      <inout>;</inout>
+    </road>    
+    <road id="7N-1080">
+      <mainroad>ถนนมอเตอร์เวย์สายกรุงเทพ-ชลบุรี</mainroad>
+      <startnode>ต่างระดับพานทอง</startnode>
+      <endnode>ต่างระดับหนองรี</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="7N-1090">
+      <mainroad>ถนนมอเตอร์เวย์สายกรุงเทพ-ชลบุรี</mainroad>
+      <startnode>ต่างระดับหนองรี</startnode>
+      <endnode>ต่างระดับหนองข้างคอก</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="3N-1040">
+      <mainroad>ถนนสุขุมวิท</mainroad>
+      <startnode>สองคลอง</startnode>
+      <endnode>บางปะกง</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="3N-1030">
+      <mainroad>ถนนสุขุมวิท</mainroad>
+      <startnode>ตำหรุ</startnode>
+      <endnode>คลองด่าน</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="3N-1020">
+      <mainroad>ถนนสุขุมวิท</mainroad>
+      <startnode>ทางหลวงบางปู</startnode>
+      <endnode>ตลาดตำหรุ</endnode>
+      <inout>IN</inout>
+    </road>   
+    <road id="3N-1000">
+      <mainroad>ถนนสุขุมวิท</mainroad>
+      <startnode>แยกปู่เจ้า</startnode>
+      <endnode>ช้างสามเศียร</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="9S-1080">
+      <mainroad>ถนนกาญจนาภิเษก</mainroad>
+      <startnode>ต่างระดับบางแค ต่างระดับวงแหวนพระราม</startnode>
+      <endnode>2</endnode>
+      <inout></inout>
+    </road>
+    <road id="9S-1070">
+      <mainroad>ถนนกาญจนาภิเษก</mainroad>
+      <startnode>ต่างระดับฉิมพลี</startnode>
+      <endnode>ต่างระดับบางแค</endnode>
+      <inout></inout>
+    </road>
+    <road id="9S-1060">
+      <mainroad>ถนนกาญจนาภิเษก</mainroad>
+      <startnode>ต่างระดับฉิมพลี</startnode>
+      <endnode>ต่างระดับรัตนาธิเบศน์</endnode>
+      <inout></inout>
+    </road>   
+    <road id="9S-1020">
+      <mainroad>ถนนกาญจนาภิเษก</mainroad>
+      <startnode>ต่างระดับลาดหลุมแก้ว</startnode>
+      <endnode>ต่างระดับสามโคก</endnode>
+      <inout></inout>
+    </road>    
+    <road id="9S-2000">
+      <mainroad>ถนนกาญจนาภิเษก</mainroad>
+      <startnode>ต่างระดับบางปะอิน</startnode>
+      <endnode>คลังสินค้าคลองหลวง</endnode>
+      <inout></inout>
+    </road>
+    <road id="34N-1060">
+      <mainroad>ถนนบางนา-ตราด</mainroad>
+      <startnode>บางวัว</startnode>
+      <endnode>บางปะกง</endnode>
+      <inout>IN</inout>
+    </road>    
+    <road id="304S-0000">
+      <mainroad>ทางหลวง 304</mainroad>
+      <startnode>รพ.โสธร</startnode>
+      <endnode>ทางเข้าวัดโสธร</endnode>
+      <inout></inout>
+    </road>
+    <road id="304S-0010">
+      <mainroad>ทางหลวง 304</mainroad>
+      <startnode>ค่ายทหาร</startnode>
+      <endnode>ไทยแอร์โร่</endnode>
+      <inout></inout>
+    </road>
+    <road id="304S-0030">
+      <mainroad>ทางหลวง 304</mainroad>
+      <startnode>ตลาดพนม</startnode>
+      <endnode>เขาหินซ้อน</endnode>
+      <inout></inout>
+    </road>
+  </region>
+  <region id="S">
+    <road id="4S-2000">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>ต่างระดับวังมะนาว</startnode>
+      <endnode>สี่แยกบางเค็ม</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="4S-2010">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>สี่แยกบางเค็ม</startnode>
+      <endnode>สี่แยกเขาย้อย</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="4S-2060">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>โค้งหัวสะพานเพชรบุรีขาเข้า</startnode>
+      <endnode>กทม.ชลอตัวซื้อของฝาก</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="4S-2050">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>ต่างระดับเขาวังเพชรบุรี</startnode>
+      <endnode>แยกบ้านลาด</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="4S-1090">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>สี่แยกปากท่อ</startnode>
+      <endnode>ต่างระดับวังมะนาว</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="4S-1080">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>ต่างระดับแยกบางแพ</startnode>
+      <endnode>สี่แยกปากท่อ</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="4S-1060">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>สามแยกตาลคอหวาย</startnode>
+      <endnode>ต่างระดับเข้าอำเภอบ้านโป่ง</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="4S-1050">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>สามแยกพระประโทน</startnode>
+      <endnode>สามแยกตาลคอหวาย</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="35S-1020">
+      <mainroad>ทางหลวง 35</mainroad>
+      <startnode>ต่างระดับสมุทรสาคร</startnode>
+      <endnode>ทางแยกบ้านแพ้ว</endnode>
+      <inout></inout>
+    </road>
+    <road id="35S-1010">
+      <mainroad>ทางหลวง 35</mainroad>
+      <startnode>มหาชัยเมืองใหม่</startnode>
+      <endnode>เมืองสมุทรสาคร</endnode>
+      <inout></inout>
+    </road>
+    <road id="4S-1040">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>แยกอ.นครชัยศรี</startnode>
+      <endnode>แยกพระประโทน</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="4S-1030">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>ต่างระดับท่าตำหนัก</startnode>
+      <endnode>แยกนครชัยศรี</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="4S-1010">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>ทางหลวงหมายเลข 4</startnode>
+      <endnode>อำเภอสามพราน</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="4S-1000">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>เดอะมอลบางแค</startnode>
+      <endnode>ทางหลวงหมายเลข 4</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="338N-1000">
+      <mainroad>ทางหลวง 338</mainroad>
+      <startnode>แยกอรุณอมรินทร์</startnode>
+      <endnode>ขนส่งสายใต้ใหม่</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="338N-1010">
+      <mainroad>ทางหลวง 338</mainroad>
+      <startnode>ขนส่งสายใต้ใหม่</startnode>
+      <endnode>ต่างระดับฉิมพลี</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="338N-1040">
+      <mainroad>ทางหลวง 338</mainroad>
+      <startnode>ทางแยกพุทธมณฑลสาย 7</startnode>
+      <endnode>ต่างระดับท่าตำหนัก</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="338N-1020">
+      <mainroad>ทางหลวง 338</mainroad>
+      <startnode>ต่างระดับฉิมพลี</startnode>
+      <endnode>ต่างระดับพุทธมณฑลสาย 4</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="35N-1020">
+      <mainroad>ทางหลวง 35</mainroad>
+      <startnode>แยกอำเภอบ้านแพ้ว</startnode>
+      <endnode>แยกจังหวัดสมุทรสาคร</endnode>
+      <inout></inout>
+    </road>   
+    <road id="4N-2000">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>ต่างระดับวังมะนาว</startnode>
+      <endnode>สี่แยกบางเค็ม</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="4N-2010">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>สี่แยกบางเค็ม</startnode>
+      <endnode>สี่แยกเขาย้อย</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="4N-2060">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>โค้งหัวสะพานเพชรบุรีขาเข้า</startnode>
+      <endnode>กทม.ชลอตัวซื้อของฝาก</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="4N-2050">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>ต่างระดับเขาวังเพชรบุรี</startnode>
+      <endnode>แยกบ้านลาด</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="4N-1090">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>สี่แยกปากท่อ</startnode>
+      <endnode>ต่างระดับวังมะนาว</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="4N-1080">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>ต่างระดับราชบุรี</startnode>
+      <endnode>สี่แยกปากท่อ</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="4N-1060">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>สามแยกตาลคอหวาย</startnode>
+      <endnode>ต่างระดับเข้าอำเภอบ้านโป่ง</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="4N-1050">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>สามแยกพระประโทน</startnode>
+      <endnode>สามแยกตาลคอหวาย</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="4N-1030">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>ต่างระดับท่าตำหนัก</startnode>
+      <endnode>แยกนครชัยศรี</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="4N-1010">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>ทางหลวงหมายเลข 4</startnode>
+      <endnode>อำเภอสามพราน</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="4N-1000">
+      <mainroad>ถนนเพชรเกษม</mainroad>
+      <startnode>เดอะมอลบางแค</startnode>
+      <endnode>ทางหลวงหมายเลข 4</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="338S-1040">
+      <mainroad>ทางหลวง 338</mainroad>
+      <startnode>ทางแยกพุทธมณฑลสาย 7</startnode>
+      <endnode>ต่างระดับท่าตำหนัก</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="338S-1020">
+      <mainroad>ทางหลวง 338</mainroad>
+      <startnode>ต่างระดับฉิมพลี</startnode>
+      <endnode>ต่างระดับพุทธมณฑลสาย 4</endnode>
+      <inout>OUT</inout>
+    </road>
+  </region>
+  <region id="NE">
+    <road id="2N-2500">
+      <mainroad>ถนนมิตรภาพ</mainroad>
+      <startnode>ต่างระดับวอร์ด็อก</startnode>
+      <endnode>ศูนย์ข้อมูลทางหลวงลำตะคอง</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="2N-2510">
+      <mainroad>ถนนมิตรภาพ</mainroad>
+      <startnode>ศูนย์ข้อมูลทางหลวงลำตะคอง</startnode>
+      <endnode>ต่างระดับสีคิ้ว</endnode>
+      <inout>OUT</inout>
+    </road>    
+    <road id="2N-1030">
+      <mainroad>ถนนมิตรภาพ</mainroad>
+      <startnode>เนินทับกวาง</startnode>
+      <endnode>สามแยกน้ำตกเจ็ดสาวน้อย</endnode>
+      <inout>OUT</inout>
+    </road>    
+    <road id="2N-1020">
+      <mainroad>ถนนมิตรภาพ</mainroad>
+      <startnode>ต่างระดับหินกองบ้านนา</startnode>
+      <endnode>เนินทับกวาง</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="2N-0000">
+      <mainroad>ถนนมิตรภาพ</mainroad>
+      <startnode>ต่างระดับสระบุรี</startnode>
+      <endnode>สามแยกเลี่ยงเมืองสระบุรีตะวันออก</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="2N-2540">
+      <mainroad>ถนนมิตรภาพ</mainroad>
+      <startnode>ต่างระดับนครราชสีมา</startnode>
+      <endnode>ถนนเลี่ยงเมืองนครราชสีมา</endnode>
+      <inout>OUT</inout>
+    </road>
+    <road id="2S-2100">
+      <mainroad>ถนนมิตรภาพ</mainroad>
+      <startnode>ต่างระดับเขาใหญ่ ต่างระดับวอร์ด็อก</startnode>
+      <endnode>เลี่ยงเมืองปากช่อง </endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="2S-2500">
+      <mainroad>ถนนมิตรภาพ</mainroad>
+      <startnode>ต่างระดับวอร์ด็อก</startnode>
+      <endnode>ศูนย์ข้อมูลทางหลวงลำตะคอง</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="2S-2510">
+      <mainroad>ถนนมิตรภาพ</mainroad>
+      <startnode>ศูนย์ข้อมูลทางหลวงลำตะคอง</startnode>
+      <endnode>ต่างระดับสีคิ้ว</endnode>
+      <inout>IN</inout>
+    </road>    
+    <road id="2S-1030">
+      <mainroad>ถนนมิตรภาพ</mainroad>
+      <startnode>เนินทับกวาง</startnode>
+      <endnode>สามแยกน้ำตกเจ็ดสาวน้อย</endnode>
+      <inout>IN</inout>
+    </road>    
+    <road id="2S-1020">
+      <mainroad>ถนนมิตรภาพ</mainroad>
+      <startnode>ต่างระดับหินกองบ้านนา</startnode>
+      <endnode>เนินทับกวาง</endnode>
+      <inout>IN</inout>
+    </road>
+    <road id="2S-0000">
+      <mainroad>ถนนมิตรภาพ</mainroad>
+      <startnode>ต่างระดับสระบุรี</startnode>
+      <endnode>สามแยกเลี่ยงเมืองสระบุรีตะวันออก</endnode>
+      <inout>IN</inout>
+    </road>
+  </region>
+</report>
